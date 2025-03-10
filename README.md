@@ -22,9 +22,9 @@
 
 ###
 
-|  |  |
+
 |---------------------|-----|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrunc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> | <img src="[https://i.gifer.com/VU4B.gif](https://media3.giphy.com/media/l3978y5HqiEtqupiM/200w.gif?cid=6c09b952lvm09y7vavhjpa3cscl9rvpnh9ba62r5y7hya4gc&ep=v1_gifs_search&rid=200w.gif&ct=g)" height="150" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrunc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> | <img src="https://media3.giphy.com/media/l3978y5HqiEtqupiM/200w.gif" height="150" /> |
 
 ###
 
