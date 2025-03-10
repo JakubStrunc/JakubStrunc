@@ -23,8 +23,8 @@
 ###
 
 
-|---------------------|-----|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrunc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> | <img src="https://media3.giphy.com/media/l3978y5HqiEtqupiM/200w.gif" height="150" /> |
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrunc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />  <img src="https://i.gifer.com/VU4B.gif" height="200" /> 
 
 ###
 
