@@ -10,7 +10,10 @@
 Heya, I am Jakub and I come from Czechia. I really enjoy new challenges, am ambitious, and continually learn new things.
     During my high school studies in Vancouver, Canada, I led a robotics team for two years.
     During my two years at the University of West Bohemia in Pilsen, I gained IT a lot of experience. 
-    I am passionate about programming, enjoy learning new things, and creating new projects in the future</p>
+    I am passionate about programming, enjoy learning new things, and creating new projects in the future
+<br>
+<br>
+</p>
 
 
 ###
