@@ -10,7 +10,11 @@
     During my two years at the University of West Bohemia in Plzeň, I gained IT a lot of experiences. 
     I am passionate about programming, enjoy learning new things, and creating new projects in the future</p>
 
-###   
+###  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/? <img src="https://i.gifer.com/VU4B.gif" height="200" /> 
+
+###
 
 
 # 🛠 Tech Stack:
@@ -25,15 +29,6 @@
 
 ###
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakubStrunc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />  <img src="https://i.gifer.com/VU4B.gif" height="200" /> 
-
-###
-
-
-
-###
 
 <br clear="both">
 
