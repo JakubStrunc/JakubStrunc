@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" src="https://i.gifer.com/VU4B.gif" height="200" /> 
+<img align="right" src="https://i.gifer.com/VU4B.gif" height="160" /> 
 <p align="left">
 Heya, I am Jakub and I come from Czechia. I really enjoy new challenges, am ambitious, and continually learn new things.
     During my high school studies in Vancouver, Canada, I led a robotics team for two years.
