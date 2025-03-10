@@ -4,7 +4,7 @@
 # 💫 About Me:
 
 ###
-<img align="right" height="200" src="https://i.pinimg.com/originals/57/03/71/570371ec4f6dc1659c123ac3139063f8.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/57/03/71/570371ec4f6dc1659c123ac3139063f8.gif" />
 
 <p align="left">Heya, I am Jakub and I come from Czechia. I really enjoy new challenges, am ambitious, and continually learn new things.
     During my high school studies in Vancouver, Canada, I led a robotics team for two years.
