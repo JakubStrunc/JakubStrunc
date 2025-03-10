@@ -12,7 +12,7 @@
 
 ###  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/? <img src="https://i.gifer.com/VU4B.gif" height="200" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/? <img src="https://i.gifer.com/VU4B.gif" height="200" /> 
 
 ###
 
