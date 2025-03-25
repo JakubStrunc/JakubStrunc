@@ -1,7 +1,7 @@
 
 ###
 
-# 💫 About Me [(📄Cover Letter)]([https://github.com/JakubStrunc](https://github.com/JakubStrunc/JakubStrunc/blob/main/CV_Jakub_%C5%A0trunc.pdf)) :
+# 💫 About Me [(📄Cover Letter)](https://github.com/JakubStrunc/JakubStrunc/blob/main/CV_Jakub_%C5%A0trunc.pdf) :
 
 ###
 
