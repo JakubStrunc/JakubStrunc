@@ -10,7 +10,7 @@
     <br>
 Heya, I am Jakub and I come from Czechia. I really enjoy new challenges, am ambitious, and continually learn new things.
     In my past high school studies in Vancouver, Canada, I led a robotics team for two years.
-    During my two years at the University of West Bohemia in Pilsen, I gained a lot of IT experience. 
+    During my three years at the University of West Bohemia in Pilsen, I gained a lot of IT experience. 
     I am passionate about programming, enjoy learning new things, and creating new projects in the future 
 <br>
 <br>
@@ -34,9 +34,9 @@ Heya, I am Jakub and I come from Czechia. I really enjoy new challenges, am ambi
 
 <br clear="both">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+</picture> -->
 
